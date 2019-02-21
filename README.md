@@ -1,8 +1,9 @@
 # The Class Wiki
 
 This will serve as a place to document what we do collectively in the
-course. For now, it has a list of the URLs of the blogs of everyone in 
-the class. More will follow.
+course. 
+
+## List of Everyone's Class Blog URLS
 
   https://hunter-college-ossd-spr19.github.io/DanieSegarra36-weekly/<br>
   https://hunter-college-ossd-spr19.github.io/msats5-weekly/<br>
@@ -23,3 +24,5 @@ the class. More will follow.
   https://hunter-college-ossd-spr19.github.io/HasanAbdullah31-weekly/<br>
   https://hunter-college-ossd-spr19.github.io/jch8ri-weekly/<br>
   https://hunter-college-ossd-spr19.github.io/nCarol595-weekly/<br>
+
+## Questions for Christos Bacharakis
